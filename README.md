@@ -6,7 +6,7 @@ Die Aufgabenstellung lautete, zusammengefaßt: schreiben Sie eine Website in HTM
 
 Ich habe die HTML5-Seite auf HTML5 Biolerplate aufgebaut und diese mit CSS-Grid und Flexbox struktiert. Für den Javascriptbereich habe ich eigene Konstrukormethoden geschrieben, bibliothek.js, und bearbeite die einzelnen Prozesse in function.js. Die Webseite ist für eine responsiven Erweiterung vorgesehen, diese ist aber nicht realisiert worden. Hauptaugenmerk war die Umsetzung von Javascript.
 
-Die Arbeitsschritte habe ich struktiert und ausgearbeitet mit einem Mindmap. Ich habe mich an der agilen Arbeitsweise orientiert, habe jedoch die Fragestellungen nicht notiert, sondern lediglich die Antworten zu den (Ich will das und jenes erledigen). Diese Antworten sind auch in den Codezeilen als Orientierung enthalten. 
+Die Arbeitsschritte habe ich struktiert und ausgearbeitet mit einem Mindmap. Ich habe mich an der agilen Arbeitsweise orientiert, habe jedoch die Fragestellungen nicht notiert, sondern lediglich die Antworten zu den (Ich will das und jenes erledigen). Diese Antworten sind auch in den Codezeilen als Orientierung enthalten. Ich habe die Mindmap als mmap und pdf im Root beigefügt.
 
 Die Präsentation dieser Arbeit wurde auch ein Video mitgeschnitten. 
 
