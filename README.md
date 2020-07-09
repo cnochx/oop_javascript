@@ -16,3 +16,5 @@ Hingeführt zum Verständnis der OOP haben mich vor allem:
 https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/
 https://developer.mozilla.org/de/docs/Learn/JavaScript/Objects/Object-oriented_JS
 das weiter Verständnis kam mit jeder weiteren Zeile, die ich hier geschrieben habe.
+
+Rudra Martin Grellmann
