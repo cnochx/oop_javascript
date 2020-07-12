@@ -1,0 +1,54 @@
+/* Define Typography-CSS
+ * @Media All */
+
+body {
+    font-size: 0.750em;
+    font-family: Trebuchet MS, Arial, Verdana, sans-serif;
+}
+
+nav {
+    font-size: 0.938em;
+}
+
+nav a {
+    text-decoration: none!important;
+}
+
+nav li a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 1.125em;
+}
+
+h2 {
+    font-size: 0.875em;
+}
+
+a:link {
+    text-decoration: underline;
+    color: #000000;
+}
+
+article a,
+article a:link,
+article a:hover,
+article a:visited {
+    text-decoration: underline;
+    color: #fff
+}
+
+aside div#side_infotext_wrapper>button {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+footer a,
+footer a:link,
+footer a:hover,
+footer a:visited {
+    text-decoration: underline;
+    color: #fff
+}

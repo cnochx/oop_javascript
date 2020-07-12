@@ -1,0 +1,118 @@
+/* Define Theme CSS (Design based on Layout)
+ * @Media All */
+
+main {
+    margin: auto;
+    border: solid #ffffff;
+    border-width: 0 1px 0 1px;
+}
+
+header {
+    background-color: #6d7481;
+}
+
+header img {
+    width: 100%;
+    height: auto;
+    border: none;
+}
+
+nav {
+    background-color: #6d7481;
+    border: solid #FFFFFF;
+    border-width: 1px 0px 1px 0px;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+nav ul li {
+    padding-right: 30px;
+}
+
+div.nav_side {
+    background-color: #b1b6bf;
+    border: solid #FFFFFF;
+    border-width: 1px 0px 1px 1px;
+}
+
+article {
+    background-color: #6d7481;
+    padding: 0 13px 0 10px;
+    text-align: justify;
+    hyphens: auto;
+}
+
+article blockquote {
+    margin: 10px;
+}
+
+article img {
+    border: 2px solid #000000;
+}
+
+aside {
+    background-color: #b1b6bf;
+    border: solid #FFFFFF;
+    border-width: 0px 0px 0px 1px;
+    padding: 10px 37px 0px 37px;
+}
+
+aside div#side_image_wrapper>button {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    border: 0;
+    width: 115px;
+    height: 86px;
+    cursor: pointer;
+}
+
+aside div#side_infotext_wrapper h2,
+aside div#side_infotext_wrapper p {
+    text-align: justify;
+    hyphens: auto;
+}
+
+aside div#side_infotext_wrapper {
+    text-align: center;
+}
+
+aside div#side_infotext_wrapper>button {
+    padding: 0;
+    margin: 0 auto 0 auto 0;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background-color: inherit;
+}
+
+aside button:focus:not(:focus-visible) {
+    outline: 0;
+}
+
+
+/* aside button img {
+    display: block;
+    height: 86px!important;
+    width: 115px!important;
+} */
+
+footer {
+    background-color: #333333;
+    padding: 5px;
+}
+
+footer p::before {
+    content: "\00a9";
+    margin-right: 6px;
+}
