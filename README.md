@@ -1,6 +1,6 @@
 # oop_javascript
 
-Hier ist eine Projektarbeit mitJavascript/OOP im Rahmen der Weiterbildung zum Full Stack Webdeveloper mit Agilen Projektmangement" hinterlegt.
+Hier ist eine Projektarbeit mit Vanilla Javascript/OOP im Rahmen der Weiterbildung zum Full Stack Webdeveloper mit Agilen Projektmangement" hinterlegt.
 
 Die Aufgabenstellung lautete, zusammengefaßt: schreiben Sie eine Website in HTML5 und integrieren Sie mit Javascript Bilder in der Siebar. Mittels Klick auf internen Link soll ein je Bild bestimmter Infotext eingeblendet werden. Zusätzlich soll mit einem Mouseover ein anderes Bild angezeigt werden. 
 
