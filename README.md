@@ -8,7 +8,7 @@ Ich habe die HTML5-Seite auf HTML5 Biolerplate aufgebaut und diese mit CSS-Grid 
 
 Die Arbeitsschritte habe ich struktiert und ausgearbeitet mit einem Mindmap. Ich habe mich an der agilen Arbeitsweise orientiert, habe jedoch die Fragestellungen nicht notiert, sondern lediglich die Antworten zu den (Ich will das und jenes erledigen). Diese Antworten sind auch in den Codezeilen als Orientierung enthalten. Ich habe die Mindmap als mmap und pdf im Root beigefügt.
 
-Die Präsentation dieser Arbeit wurde auch ein Video mitgeschnitten. 
+Bei der Präsentation dieser Arbeit wurde auch ein Video mitgeschnitten. 
 
 Ich kannn für mich sagen, das ich die Arbeitsweise von OOP in Javascript sehr gut verstanden habe. 
 
